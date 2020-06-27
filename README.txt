@@ -2,7 +2,7 @@
 
 Code submitted is for Part 1 only. This project was used in congunction TI RLSK kit,
 which consists of a ARM Cortex M4F microcontroller in conjuction with motors, bump
-switches and LEDs.
+switches and LEDs. An Mp4 file has been attached to show how the 'buggy' in operation.
 
 Assignment Brief
 
